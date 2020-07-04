@@ -5,8 +5,9 @@ date: 2020-04-04T19:18:05+00:00
 author: lcdr
 layout: page
 guid: https://lcdruniverse.org/?page_id=2453
+permalink: /dark-souls-you-died-mod/
 ---
-<figure class="wp-block-image size-large"><img src="https://lcdruniverse.org/wp-content/uploads/2020/04/you-died-1024x576.png" alt="" class="wp-image-2458" srcset="https://lcdruniverse.org/wp-content/uploads/2020/04/you-died-1024x576.png 1024w, https://lcdruniverse.org/wp-content/uploads/2020/04/you-died-300x169.png 300w, https://lcdruniverse.org/wp-content/uploads/2020/04/you-died-768x432.png 768w, https://lcdruniverse.org/wp-content/uploads/2020/04/you-died.png 1280w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure> 
+<figure class="wp-block-image size-large"><img src="https://lcdruniverse.org/wp-content/uploads/2020/04/you-died-1024x576.png" alt="" class="wp-image-2458" srcset="https://lcdruniverse.org/wp-content/uploads/2020/04/you-died-1024x576.png 1024w, https://lcdruniverse.org/wp-content/uploads/2020/04/you-died-300x169.png 300w, https://lcdruniverse.org/wp-content/uploads/2020/04/you-died-768x432.png 768w, https://lcdruniverse.org/wp-content/uploads/2020/04/you-died.png 1280w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /></figure>
 
 You can make your LU client the Dark Souls of LEGO Games by doing the following:
 
