@@ -4,10 +4,9 @@ title: Site Launch!
 date: 2017-07-30T21:13:20+00:00
 author: lcdr
 layout: post
-guid: https://140.82.34.142/?p=127
 permalink: /2017/07/site-launch/
 categories:
-  - Uncategorized
+	- Uncategorized
 ---
 We’ve finally gotten around to launching a website. So far we’ve focused on server development, but now we’re ready for a public-facing display. There’s project info, FAQ, media and ingame screenshots, and what I’m looking towards most, forums, which brings our project one step closer to being a complete community. And of course there’s also this dev blog, where we’ll be posting longer updates & announcements, as well as some write-ups about the internals of LU. (For shorter updates check our twitter as well).
 
@@ -24,5 +23,7 @@ Of course, hosting a server costs money. We want everyone of you to be able to p
 **Update:** Some of you have voiced concerns regarding donation items opening up a slippery slope towards something similar to freemium and microtransaction models. We never intended for this to be that way and are strictly against such systems. However we understand your concern. To make our stance on this absolutely clear and leave no questions open, we have decided not to give out any ingame items at all for donators. Rather, items will only be available through gameplay. We still want to thank everyone who considers donating to us to help us with the server, but we want to make clear that the playing experience is the most important thing to us.
 
 It’s been almost four years since this all began, and we’re finally getting to the point I’ve been looking forward to all this time. I’m very excited for these next steps. They’re the last parts in this quest to make this vision reality.
+
 See you all in-game!
+
 – lcdr

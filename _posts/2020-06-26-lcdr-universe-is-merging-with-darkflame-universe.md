@@ -4,10 +4,9 @@ title: lcdr Universe is merging with Darkflame Universe
 date: 2020-06-26T17:33:39+00:00
 author: lcdr
 layout: post
-guid: https://lcdruniverse.org/?p=2471
 permalink: /2020/06/lcdr-universe-is-merging-with-darkflame-universe/
 categories:
-  - Uncategorized
+	- Uncategorized
 ---
 Hello everyone!
 
@@ -60,4 +59,5 @@ As a final word, think of this less as an end and rather as a new chapter. Thank
 
 
 See you all in-game!
+
 – lcdr

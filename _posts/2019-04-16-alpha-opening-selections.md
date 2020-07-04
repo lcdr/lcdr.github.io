@@ -4,11 +4,10 @@ title: Alpha opening selections
 date: 2019-04-16T17:00:03+00:00
 author: lcdr
 layout: post
-guid: https://lcdruniverse.org/?p=2380
 permalink: /2019/04/alpha-opening-selections/
 categories:
-  - Alpha
-  - LU
+	- Alpha
+	- LU
 ---
 Hello everyone!
 
@@ -57,4 +56,5 @@ If you’re not one of the selected you may still have a chance in later selecti
 I’m glad to welcome 20 new testers to the server. Every opening brings us one step closer to having the full game working again.
 
 See you all in-game!
+
 – lcdr

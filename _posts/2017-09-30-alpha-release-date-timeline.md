@@ -4,11 +4,10 @@ title: 'Alpha release date & timeline'
 date: 2017-09-30T20:00:00+00:00
 author: lcdr
 layout: post
-guid: https://140.82.34.142/?p=1120
 permalink: /2017/09/alpha-release-date-timeline/
 categories:
-  - Alpha
-  - LU
+	- Alpha
+	- LU
 ---
 Hello everyone!
 
@@ -24,57 +23,11 @@ We’ve decided to start low with 20 slots available for the first alpha stage. 
 
 To explain the process, here’s a timeline:
 
-<table>
-  <tr>
-    <td>
-      September 30 (Today)
-    </td>
-
-    <td>
-      Alpha application phase starts. From now on, people are able to submit their application for alpha.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      October 14
-    </td>
-
-    <td>
-      Alpha application phase ends. People will still be able to submit applications, but they will count towards a later stage, not the one beginning on October 26.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      October 21
-    </td>
-
-    <td>
-      After filtering out spam and randomly selecting applications, we announce the selections on October 21. Selected applicants will be notified via mail about the next steps.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      October 26
-    </td>
-
-    <td>
-      Alpha Stage 1 starts, with 20 selected people.
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      Later
-    </td>
-
-    <td>
-      Once testing with the initial group of 20 people is successful, we will open up the alpha to more people in later stages.
-    </td>
-  </tr>
-</table>
+| September 30 (Today) | Alpha application phase starts. From now on, people are able to submit their application for alpha. |
+| October 14           | Alpha application phase ends. People will still be able to submit applications, but they will count towards a later stage, not the one beginning on October 26. |
+| October 21           | After filtering out spam and randomly selecting applications, we announce the selections on October 21. Selected applicants will be notified via mail about the next steps. |
+| October 26           | Alpha Stage 1 starts, with 20 selected people. |
+| Later                | Once testing with the initial group of 20 people is successful, we will open up the alpha to more people in later stages. |
 
 We’ve written up some more detailed explanations in our [Alpha FAQ](https://140.82.34.142/alpha-faq/). Check it out if you’ve got a question, or post in the forums.
 
@@ -85,4 +38,5 @@ You’ll be able to submit your applications to the first stage starting now, un
 We’ve been wanting to do an alpha for a while now, and we’re glad we’re now able to start the process. Check back on October 21 when we announce the selections.
 
 See you all in game!
+
 – lcdr

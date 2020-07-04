@@ -4,7 +4,6 @@ title: 'Dark Souls “You Died” mod'
 date: 2020-04-04T19:18:05+00:00
 author: lcdr
 layout: page
-guid: https://lcdruniverse.org/?page_id=2453
 permalink: /dark-souls-you-died-mod/
 ---
 ![](/assets/2020/04/you-died.png)

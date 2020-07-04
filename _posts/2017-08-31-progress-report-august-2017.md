@@ -4,7 +4,6 @@ title: 'Progress Report: August 2017'
 date: 2017-08-31T01:00:45+00:00
 author: lcdr
 layout: post
-guid: https://140.82.34.142/?p=839
 permalink: /2017/08/progress-report-august-2017/
 categories:
 - Progress Report
@@ -31,7 +30,7 @@ Now, on to the actual progress report!
 
 This needs to be added at some point to be able to describe more complex formats. The struct definition language is used by the captureviewer and structparser tools to parse binary files and packets. Luckily so far it has sufficed for them, which is why these issues have only surfaced now.
 
-* Work on a struct-visualizing hex-editor to help with internal research on formats. Screenshot: ![Parsed and highlighted stucts in the viewer, with unparsed part visible below.](assets/2017/08/structviewer.png)
+* Work on a struct-visualizing hex-editor to help with internal research on formats. Screenshot: ![Parsed and highlighted stucts in the viewer, with unparsed part visible below.](/assets/2017/08/structviewer.png)
 It’s still experimental and too early to release, but it’s helpful for investigations on file formats.
 
 * Work on the client’s fdb database format.
@@ -68,4 +67,5 @@ _Pyraknet is a minimal port of the network library used by LU, RakNet 3.25, to p
 It will still take a few months to prepare everything for an alpha release. Please be patient until then. We’ll post updates about release and admission phase dates once we have something to report, so you don’t have to worry about missing them.
 
 See you all in-game!
+
 – lcdr

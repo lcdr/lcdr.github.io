@@ -4,10 +4,9 @@ title: My LEGO Network
 date: 2018-08-26T11:43:21+00:00
 author: lcdr
 layout: post
-guid: https://lcdruniverse.org/?p=2079
 permalink: /2018/08/my-lego-network/
 categories:
-  - MLN
+	- MLN
 ---
 **Update:** The restoration project now has a discord, which you can join to stay updated about progress and talk about MLN in general: <https://discordapp.com/invite/VGYgExX>
 
@@ -132,4 +131,5 @@ However the restoration has only just started, and there isn’t much organizati
 In conclusion, I’d like to say that working on the MLN server has been a lot of fun, and I’ve learned a lot working on it. The server gives the MLN restoration project a solid base to work with, and I’m confident they will be able to restore MLN to its original state in time. The work on the server has both given me new ideas for the LU server as well as means to achieve old ones, and for example something like a web interface for the server for both admins and players doesn’t seem too far-fetched any more.
 
 See you all in-game!
+
 – lcdr

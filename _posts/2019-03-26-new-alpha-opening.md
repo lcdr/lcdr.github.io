@@ -4,11 +4,10 @@ title: New alpha opening
 date: 2019-03-26T21:00:01+00:00
 author: lcdr
 layout: post
-guid: https://lcdruniverse.org/?p=2301
 permalink: /2019/03/new-alpha-opening/
 categories:
-  - Alpha
-  - LU
+	- Alpha
+	- LU
 ---
 Hey everyone!
 
@@ -44,4 +43,5 @@ If you want to apply for this alpha opening, click the link below.
 It’s been one and a half years now since the initial alpha opening, and I’m glad we’re now finally at the point where we can let more people play. The server still has ways to go until it will be complete, but it’s slowly and steadily progressing, and I’m confident we’ll get there one day. With the new alpha opening, we’re a step further along.
 
 See you all in-game!
+
 – lcdr

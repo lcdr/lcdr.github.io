@@ -4,11 +4,10 @@ title: Alpha selections
 date: 2017-10-21T14:20:48+00:00
 author: lcdr
 layout: post
-guid: https://140.82.34.142/?p=1670
 permalink: /2017/10/alpha-selections/
 categories:
-  - Alpha
-  - LU
+	- Alpha
+	- LU
 ---
 Hello everyone!
 
@@ -57,4 +56,5 @@ And no matter whether you’re selected or not, we will continue to share info a
 Remember, this all starts on October 26th! I’ve been looking forward to this next step towards everyone being able to play again for years now, and I’m excited that it’s only 5 more days until then.
 
 See you all in-game!
+
 – lcdr
