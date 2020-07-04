@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello!
 
-### More Information
+I'm lcdr (that's a lowercase l, not an uppercase I).
 
-A place to include any other types of information that you'd like to include about yourself.
+I've been working on restoring LEGO Universe since 2014. I've previously hosted the server project lcdr Universe. Currently I'm working as part of the team at Darkflame Universe.
 
-### Contact me
+I've also been involved in other projects, such as the [restoration effort](https://github.com/MellonNet/mln-backend-emulator/) for the game My LEGO Network.
 
-[email@domain.com](mailto:email@domain.com)
+### Contact
+
+Contact me on [Twitter](https://twitter.com/lcdr_Universe) or on Discord at the [LEGO Universe Community Hub]( https://discord.gg/DBt9h8Q).

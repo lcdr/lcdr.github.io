@@ -16,7 +16,7 @@ The protocols involved here are situated at the transport layer of networking. A
 
 Games however pose a special case in that they sometimes need reliable packets, and sometimes need unreliable ones. Here are some examples from LU:
 
-  * Logging in to the game needs to be a reliable packet, because it&#8217;s important that the server receives the login request &#8211; if not, you&#8217;d be stuck at the login screen forever. 
+  * Logging in to the game needs to be a reliable packet, because it&#8217;s important that the server receives the login request &#8211; if not, you&#8217;d be stuck at the login screen forever.
   * The position updates sent by the client when the player walks around don&#8217;t actually need to reach the server 100% of the time &#8211; they are sent so frequently that it doesn&#8217;t matter if one is lost. Therefore position updates are more suited to unreliable packets.
 
 Therefore LU can&#8217;t just decide on one of UDP or TCP and stick with it, it needs features from both. This is what the RakNet protocol tries to solve: it allows LU to choose between unreliable and reliable transmission for every packet. RakNet works by using UDP as a base, and then builds mechanisms on top that ensure reliability. But unlike TCP, these mechanisms are optional, and can be enabled per packet.
@@ -37,62 +37,62 @@ With the TCP/UDP protocol fully working, it was straightforward to swap out the 
 
 Additionally, the UDP and TCP implementations are provided by the operating system, so they can be improved without the program having to change. This also means that they are optimized to the full extent possible, as the same implementations are used for things like high speed file transfer and video streaming.
 
-I&#8217;ve done a few unscientific benchmarks, loading worlds in LU with the old RakNet protocol and the new TCP/UDP protocol, and there are some quite noticeable improvements:  
-  
+I&#8217;ve done a few unscientific benchmarks, loading worlds in LU with the old RakNet protocol and the new TCP/UDP protocol, and there are some quite noticeable improvements:
+
 _Values are time from when the client signals clientside load completion to the end of the loading screen, on localhost, without encryption, in seconds:_
 
-<table class="wp-block-table">
+<table>
   <tr>
     <td>
       World
     </td>
-    
+
     <td>
       Old Time
     </td>
-    
+
     <td>
       New Time
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Venture Explorer
     </td>
-    
+
     <td>
       4
     </td>
-    
+
     <td>
       2
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Crux Prime
     </td>
-    
+
     <td>
       27
     </td>
-    
+
     <td>
       2
     </td>
   </tr>
-  
+
   <tr>
     <td>
       Avant Gardens
     </td>
-    
+
     <td>
       36
     </td>
-    
+
     <td>
       3
     </td>
@@ -115,5 +115,5 @@ In the meantime, I&#8217;ll be releasing both the shim executable and source cod
 
 The network layer has been very important to me in making a decision about opening the ongoing Alpha test to new players. Some alpha testers have previously reported getting randomly disconnected from the server sometimes, which this new protocol should fix. Along with the faster loading times and the increased security, this new protocol is vital in improving the user experience of the testers. Therefore it has been an absolute requirement to me for a new alpha opening. With the protocol completed, the outlook for an alpha opening now looks much better&#8230; but more on that in the next progress report 😉
 
-See you all in-game!  
+See you all in-game!
 &#8211; lcdr

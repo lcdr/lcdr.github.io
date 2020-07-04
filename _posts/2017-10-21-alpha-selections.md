@@ -26,8 +26,6 @@ We&#8217;re selecting 20 players out of 302 applications, which means if you ent
 
 ### The selected players for Stage 1, starting on October 26th, are:
 
-&nbsp;
-
   * Komplexus
   * Dazoo1
   * ethanlindley
@@ -51,16 +49,12 @@ We&#8217;re selecting 20 players out of 302 applications, which means if you ent
 
 Congratulations to all of the above. I&#8217;m glad the random algorithm provides for so much diversity. We&#8217;ve got all kinds of LU fans in there, from original beta testers to live players, to FTP players, to people who never got the chance to play, people from the developer side and people who are engaged in the community, young ones and AFOLs who played LU with their kids. I&#8217;m really looking forward to all of them coming together in-game to play LU again.
 
-If you&#8217;re one of the selected, check your mail, we will provide you with info on how to connect later today.  
+If you&#8217;re one of the selected, check your mail, we will provide you with info on how to connect later today.
 If you&#8217;re not selected you may still have a chance in later selections, as mentioned above.
 
 And no matter whether you&#8217;re selected or not, we will continue to share info about our progress and the alpha with you. You&#8217;ll be able to look forward to alpha gameplay videos not only from our youtube, but from the players as well, as we allow streaming and recording of the alpha.
 
 Remember, this all starts on October 26th! I&#8217;ve been looking forward to this next step towards everyone being able to play again for years now, and I&#8217;m excited that it&#8217;s only 5 more days until then.
 
-See you all in-game!  
+See you all in-game!
 &#8211; lcdr
-
-&nbsp;
-
-&nbsp;
