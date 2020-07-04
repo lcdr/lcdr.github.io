@@ -6,7 +6,7 @@ author: lcdr
 layout: post
 permalink: /2018/08/my-lego-network/
 categories:
-	- MLN
+  - MLN
 ---
 **Update:** The restoration project now has a discord, which you can join to stay updated about progress and talk about MLN in general: <https://discordapp.com/invite/VGYgExX>
 

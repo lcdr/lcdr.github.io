@@ -6,8 +6,8 @@ author: lcdr
 layout: post
 permalink: /2019/02/new-network-layer/
 categories:
-	- LU
-	- Progress Report
+  - LU
+  - Progress Report
 ---
 When I was working on the MLN server, one thing that made development much easier is that the lowest levels were automatically taken care of, as much of the work had already been done by the TCP and HTTP protocols. In contrast, my work on the LU server has led to me having to start at the bottom and implement the RakNet protocol, which takes the role of TCP in LU’s networking. My experience with the MLN server got me thinking that perhaps it was possible to redesign LU’s networking so that the benefits of MLN’s networking could also be applied to LU. This is what led me to develop a new network layer that I’ve now finished work on.
 

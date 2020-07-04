@@ -6,8 +6,8 @@ author: lcdr
 layout: post
 permalink: /2019/03/new-alpha-opening/
 categories:
-	- Alpha
-	- LU
+  - Alpha
+  - LU
 ---
 Hey everyone!
 

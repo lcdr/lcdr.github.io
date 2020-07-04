@@ -6,7 +6,7 @@ author: lcdr
 layout: post
 permalink: /2017/07/site-launch/
 categories:
-	- Uncategorized
+  - Uncategorized
 ---
 We’ve finally gotten around to launching a website. So far we’ve focused on server development, but now we’re ready for a public-facing display. There’s project info, FAQ, media and ingame screenshots, and what I’m looking towards most, forums, which brings our project one step closer to being a complete community. And of course there’s also this dev blog, where we’ll be posting longer updates & announcements, as well as some write-ups about the internals of LU. (For shorter updates check our twitter as well).
 

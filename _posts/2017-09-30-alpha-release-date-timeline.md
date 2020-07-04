@@ -6,8 +6,8 @@ author: lcdr
 layout: post
 permalink: /2017/09/alpha-release-date-timeline/
 categories:
-	- Alpha
-	- LU
+  - Alpha
+  - LU
 ---
 Hello everyone!
 

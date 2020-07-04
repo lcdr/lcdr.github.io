@@ -6,8 +6,8 @@ author: lcdr
 layout: post
 permalink: /2017/10/alpha-selections/
 categories:
-	- Alpha
-	- LU
+  - Alpha
+  - LU
 ---
 Hello everyone!
 

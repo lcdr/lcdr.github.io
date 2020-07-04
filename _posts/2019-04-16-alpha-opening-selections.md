@@ -6,8 +6,8 @@ author: lcdr
 layout: post
 permalink: /2019/04/alpha-opening-selections/
 categories:
-	- Alpha
-	- LU
+  - Alpha
+  - LU
 ---
 Hello everyone!
 
