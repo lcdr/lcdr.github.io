@@ -72,21 +72,21 @@ It’s true that working on one server takes time that could be used for the oth
 
 * ###### Exploring different database options:
 
-The LU server has had some bugs caused by the database system it uses, which unfortunately are very hard to track down and fix. I’ve been curious for a while now how other database systems resolve these kinds of issues, and whether it would make sense to switch the current system. With the MLN server I was able to use the Django framework and its database ORM, which have been widely used and tested. They also work a bit differently than the LU server’s database system, which prevents some kinds of bugs I had previously encountered.
+	The LU server has had some bugs caused by the database system it uses, which unfortunately are very hard to track down and fix. I’ve been curious for a while now how other database systems resolve these kinds of issues, and whether it would make sense to switch the current system. With the MLN server I was able to use the Django framework and its database ORM, which have been widely used and tested. They also work a bit differently than the LU server’s database system, which prevents some kinds of bugs I had previously encountered.
 
 * ###### Exploring web interfaces & Django:
 
-I’ve got a bunch of ideas for administration and overview interfaces for the LU server that would ideally be implemented as a web interface. However, I didn’t have a lot of experience with modern data-driven web development, and working on a server for MLN seemed like a great way to get some in-depth experience that would help with the LU server later on.
+	I’ve got a bunch of ideas for administration and overview interfaces for the LU server that would ideally be implemented as a web interface. However, I didn’t have a lot of experience with modern data-driven web development, and working on a server for MLN seemed like a great way to get some in-depth experience that would help with the LU server later on.
 
 * ###### Exploring open-sourcing a working game server:
 
-I’ve always wanted to make my LU server open source at some point, to make more servers available to players and to decentralize the server landscape. However I haven’t been able to do so so far, for multiple reasons, including the LU projects situation and to avoid LEGO taking legal means against server projects while the server still requires a lot of development.
-The MLN server project offered an opportunity for an open, central, community project working to recreate a game, instead of the current LU situation with multiple closed projects. The MLN server makes it possible to gauge the impact of an open source project on the community, which will hopefully come in useful when the time comes to decide whether to make the LU server open source as well.
+	I’ve always wanted to make my LU server open source at some point, to make more servers available to players and to decentralize the server landscape. However I haven’t been able to do so so far, for multiple reasons, including the LU projects situation and to avoid LEGO taking legal means against server projects while the server still requires a lot of development.
+	The MLN server project offered an opportunity for an open, central, community project working to recreate a game, instead of the current LU situation with multiple closed projects. The MLN server makes it possible to gauge the impact of an open source project on the community, which will hopefully come in useful when the time comes to decide whether to make the LU server open source as well.
 
 * ###### Exploring working in a larger, community-based effort:
 
-For similar reasons as with not being able to open source the LU server, I haven’t been able to include more people in my LU server project, the situation is quite complicated. With MLN, it’s possible to “start things off the right way”, with a single, open project that makes it easy to collaborate to bring the game back.
-MLN’s restoration is also inherently more community-based than LU’s: Writing a server for LU mostly requires research and development of LU’s game mechanics, which are tasks that can be done by a relatively small team of developers. In MLN’s case, research and development takes a much smaller part of the restoration effort, and the remaining part of piecing together networker info is much more suited to a crowdsourced approach. I’m looking forward to seeing the restoration effort working with MLN fans to recover networker info.
+	For similar reasons as with not being able to open source the LU server, I haven’t been able to include more people in my LU server project, the situation is quite complicated. With MLN, it’s possible to “start things off the right way”, with a single, open project that makes it easy to collaborate to bring the game back.
+	MLN’s restoration is also inherently more community-based than LU’s: Writing a server for LU mostly requires research and development of LU’s game mechanics, which are tasks that can be done by a relatively small team of developers. In MLN’s case, research and development takes a much smaller part of the restoration effort, and the remaining part of piecing together networker info is much more suited to a crowdsourced approach. I’m looking forward to seeing the restoration effort working with MLN fans to recover networker info.
 
 #### Why haven’t you talked about this earlier?
 

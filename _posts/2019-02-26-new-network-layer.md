@@ -62,4 +62,5 @@ In the meantime, I’ll be releasing both the shim executable and source code in
 The network layer has been very important to me in making a decision about opening the ongoing Alpha test to new players. Some alpha testers have previously reported getting randomly disconnected from the server sometimes, which this new protocol should fix. Along with the faster loading times and the increased security, this new protocol is vital in improving the user experience of the testers. Therefore it has been an absolute requirement to me for a new alpha opening. With the protocol completed, the outlook for an alpha opening now looks much better… but more on that in the next progress report 😉
 
 See you all in-game!
+
 – lcdr

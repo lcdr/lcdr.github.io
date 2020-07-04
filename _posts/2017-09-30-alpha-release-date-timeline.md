@@ -29,11 +29,11 @@ To explain the process, here’s a timeline:
 | October 26           | Alpha Stage 1 starts, with 20 selected people. |
 | Later                | Once testing with the initial group of 20 people is successful, we will open up the alpha to more people in later stages. |
 
-We’ve written up some more detailed explanations in our [Alpha FAQ](https://140.82.34.142/alpha-faq/). Check it out if you’ve got a question, or post in the forums.
+We’ve written up some more detailed explanations in our [Alpha FAQ](https://lcdruniverse.org/alpha-faq/). Check it out if you’ve got a question, or post in the forums.
 
 You’ll be able to submit your applications to the first stage starting now, until October 14. Click below to start your application for a chance to be selected.
 
-[Apply for Alpha](https://140.82.34.142/apply-for-alpha/)
+[Apply for Alpha](https://lcdruniverse.org/apply-for-alpha/)
 
 We’ve been wanting to do an alpha for a while now, and we’re glad we’re now able to start the process. Check back on October 21 when we announce the selections.
 
