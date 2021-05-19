@@ -102,7 +102,7 @@ Sort of. The core system is implemented, however, without networkers, there is n
 
 #### Can I try it out?
 
-There’s no public hosted MLN server, and I don’t plan on hosting one myself, as I’d like to focus on development and less on server operation. However, the server is open source, so if you’re interested, you can host your own instance to play on. The source is available [here](https://bitbucket.org/lcdr/mlnserver/), and contains instructions on how to install and set up the server. However, to avoid any copyright problems, I can’t link content files.
+There’s no public hosted MLN server, and I don’t plan on hosting one myself, as I’d like to focus on development and less on server operation. However, the server is open source, so if you’re interested, you can host your own instance to play on. The source is available [here](https://github.com/MellonNet/mln-backend-emulator/), and contains instructions on how to install and set up the server. However, to avoid any copyright problems, I can’t link content files.
 
 #### What’s next for the MLN project?
 

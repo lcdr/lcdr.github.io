@@ -20,7 +20,7 @@ So here we go, a comprehensive list of bugs that were resolved and features that
 
 * ###### Pyraknet: Issue: Duplicate detection not working properly.
 
-	[Pyraknet](https://bitbucket.org/lcdr/pyraknet/) is the network library implementing the RakNet 3.25 protocol that provides the low-level network layer that LU uses for network communication.
+	[Pyraknet](https://github.com/lcdr/pyraknet/) is the network library implementing the RakNet 3.25 protocol that provides the low-level network layer that LU uses for network communication.
 	It needs to resend packets when the client doesn’t receive them for some reason, and it needs to be able to detect and throw away resends it doesn’t need when it did receive the packet.
 	In a rare case (only 1 message used by LU was using this packet type) the duplicate detection didn’t work. This patch fixed this problem.
 
